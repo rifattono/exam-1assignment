@@ -1,0 +1,610 @@
+@media all and (max-width:2000px) {
+    .addmision-section .f_left img {
+        width: 100%;
+        height: 50rem;
+    }
+    .addmision-section-bottom .f_right img {
+        width: 100%;
+        height: 43rem;
+    }
+    .scroll-top a{
+        
+        top: 90%;
+      
+      }
+} 
+
+
+
+
+
+@media all and (max-width:1368px) {
+    .container {
+        width: 110rem;
+        margin: auto;
+    }
+    html {
+        font-size: 9px;
+    }
+    .about_section .a-content .right .about-mid-content  {
+        background: #e7f4f6;
+        padding: 1.6rem 0rem;
+        margin: 1.5rem 0;
+    }
+    .news_section .flot .inner_box .left_side .image img {
+        
+        height: 22.7rem;
+    }
+    .scroll-top a{
+        
+        top: 96%;
+      
+      }
+    
+}
+@media all and (max-width:1068px) {
+    .container {
+        width: 110rem;
+        margin: auto;
+    }
+    html {
+        font-size: 8px;
+    }
+    .banner_section .b-content h2 {
+        font-size: 3.5rem;
+        
+    }
+    .about_section .a-content .right .about-mid-content  {
+        background: #e7f4f6;
+        padding: 1.8rem 0rem;
+        margin: 1.5rem 0;
+    }
+    .scroll-top a{
+        
+        top: 96%;
+      
+      }
+}
+@media all and (max-width:968px) {
+    .container {
+        width: 100rem;
+        margin: auto;
+    }
+    .news_section .flot .inner_box .left_side .image img {
+        height: 23.7rem;
+    }
+    .fotter_section .sss .s_content .s_right .email {
+       
+        padding: 0rem 1rem;
+        width: 30rem;
+        
+    }
+    .about_section .a-content .right .about-mid-content  {
+        background: #e7f4f6;
+        padding: 2.2rem 1rem;
+        margin: 1.5rem 0;
+    }
+    .about_section .a-content .left .about-box-content .last img {
+        margin-top: 5rem;
+        margin-left: 5rem;
+    }
+    .about_section .a-content .left .about-box-content .last p {
+        
+        margin-left: 5rem;
+    }
+    html {
+        font-size: 7px;
+    }
+    .banner_section .b-content h2 {
+        font-size: 3.5rem;
+        line-height: 5rem;
+        margin-top: 5rem;
+    }
+    .banner_section .b-content p {
+       color: #fff;
+    }
+    .banner_section{
+        position: relative;
+        z-index: 1;
+        overflow: hidden;
+        color: #fff;
+
+    }
+    .banner_section::after{
+       content: '';
+       position: absolute;
+       top: 0;
+       left: 0;
+       height: 100%;
+       width: 100%;
+       background: rgba(0,0,0, .5);
+       z-index: -1;
+    }
+    .about_section{
+        margin-top: 6rem !important;
+      }
+      .banner_section .b-content {
+        width: 65%;
+        
+    }
+    .scroll-top a{
+        
+        top: 97%;
+      
+      }
+
+    
+}
+
+
+@media all and (max-width:750px) {
+    .container {
+        width: 80rem;
+        margin: auto;
+    }
+    .about_section .a-content .right .about-mid-content .righ p {
+        font-size: 1.7rem;
+    }
+    .fotter_section .sss .s_content .s_right .submit {
+      
+        margin-left: 17.5rem;
+        
+        margin-top: 3rem;
+    }
+    .fotter_section .sss .s_content .s_right .email {
+        width: 26rem;
+    }
+    .category .card-content {
+        
+        width: 50%;
+    }
+    .courses .card {
+       
+        width: 50%;
+       
+    }
+    .fotter_section {
+       
+        height: 68rem;
+        
+    }
+    .fotter_section .sss .s_content .s_right .email {
+        width: 24rem;
+       
+    }
+    .student_section .flot .inner {
+        float: left;
+        width: 100%;
+    }
+    .news_section {
+        
+        height: 191rem;
+        
+    }
+
+.news_section .flot {
+	float: left;
+	width: 100%;
+}
+.news_section .right_side {
+	float: right;
+	/* width: 45%; */
+	width: 100%;
+	position: relative;
+}
+    .about_section .a-content .left {
+        width: 100%;
+        margin:  auto;
+        padding-left: 0 !important;
+    }
+    .about_section .a-content .right {
+        width: 100%;
+        margin-top: 6rem;
+    }
+    .about_section .a-content .left .about-box-content .last img {
+        margin-top: 5rem;
+        margin-left: 2rem;
+    }
+    .about_section .a-content .left .about-box-content .last p {
+        
+        margin-left: 2rem;
+    }
+    .addmision-section-bottom .f_left {
+        float: left;
+        width: 100%;
+        background: #f9f8f8;
+    }
+    .addmision-section-bottom .f_right {
+        float: right;
+        width: 100%;
+        /* margin: ; */
+        margin-top: 5rem;
+    }
+    html {
+        font-size: 7px;
+    }
+    .banner_section {
+       
+        padding: .5rem 0rem 22rem 0rem;
+      
+    }
+    .banner_section .b-content h2 {
+        font-size: 2.8rem;
+        line-height: 5rem;
+        margin-top: 5rem;
+    }
+    .banner_section .b-content p {
+        color: #fff;
+        font-size: 1.2rem;
+     }
+    .dropdwon_menu{
+        display: none !important; 
+    }
+    .navbar .navbar_menu .mid ul{
+      display: none;
+      position: absolute;
+      background: #ffff;
+      width: 100% !important;
+      left: 0 !important; 
+      text-align: left;
+      padding: 2rem;
+      top: 100%;
+    }
+    .navbar .navbar_menu .mid li{
+      display: block !important;
+      transition: .4s;
+      margin-right: 5rem;
+      
+    }
+    .navbar .navbar_menu .mid li:hover{
+       background: rgb(255, 247, 247);
+    }
+    .navbar .navbar_menu .mid ul li a {
+      
+        padding-left: 1rem;
+    }
+    .h-main-top.clear {
+        padding: 1rem 0rem 1.5rem 0rem;
+    }
+    .h-top .h-main-top .left {
+        width: 100%;
+        text-align: center;
+        border: 1px solid #ddd;
+        margin-bottom: 1rem;
+    }
+    .h-top .h-main-top .right {
+        float: right;
+        width: 100%;
+        text-align: center;
+    }
+    .navbar .navbar_menu .right {
+	float: left;
+	width: 80%;
+	padding: 3rem 0;
+	text-align: right;
+}
+
+
+#menu:checked + ul{
+    display: block !important;
+    
+}
+.navbar .navbar_menu .mid ul li {
+	display: inline-block;
+	padding: 2rem 2rem;
+	position: relative;
+}
+ 
+.addmision-section .f_left {
+	width: 100%;
+    text-align: center;
+}
+.addmision-section .f_left img {
+	width: 70%;
+    margin-bottom: 6rem;
+}
+.addmision-section .f_right {
+	float: right;
+	width: 100%;
+	background: #f3f8fc;
+	text-align: center;
+    
+}
+.addmision-section-bottom {
+	padding: 1rem 0;
+	padding-bottom: 5rem;
+}
+
+.addmision-section .f_right .inner p {
+	
+	margin: auto;
+}
+.addmision-section .f_right .inner {
+	padding: 4.8rem 8rem;
+}
+.scroll-top a{
+        
+    top: 96%;
+  
+  }
+
+}
+
+@media all and (max-width:568px) {
+    .container {
+        width: 60rem;
+        margin: auto;
+    }
+    .scroll-top a{
+        
+        top: 95%;
+      
+      }
+
+     .banner_section .b-content {
+	width: 80%;
+}
+    .about_section .a-content .left .about-box-content .image img {
+        margin-top: 5rem;
+        width: 12rem;
+    }
+    .fotter_section .sss .s_content .s_left h4 {
+        
+        margin-top: 3rem;
+    }
+    .fotter_section .sss .s_content .s_left h2 {
+        
+        font-size: 2rem;
+    }
+    .fotter_section .sss .s_content .s_right .email {
+        width: 23rem;
+        padding: 0rem 2rem;
+    }
+    .fotter_section .sss .s_content .s_right .submit {
+      
+        margin-left: 17.5rem;
+        
+        margin-top: 3rem;
+    }
+    .courses .card {
+       
+        width: 100%;
+       
+    }
+    .addmision-section-bottom {
+        padding: 1rem 0;
+        padding-bottom: 5rem;
+    }
+    .heading-title {
+        /* padding: 6rem 1rem; */
+        padding-bottom: 6rem;
+    }
+    html {
+        font-size: 6px;
+    }
+    .banner_section {
+       
+        padding: .5rem 0rem 17rem 0rem;
+      
+    }
+    .about_section .a-content .right {
+    
+        margin-bottom: 5rem;
+    }
+    .category .card-content {
+        
+        width: 100%;
+    }
+    .inner {
+        margin-bottom: 3rem;
+        padding-left: 7rem;
+    }
+    .rr{
+        padding-left: 0 !important;
+    }
+    .fotter_section .footer_item .footer_content {
+        float: left;
+        width: 50%;
+    }
+    .fotter_section {
+       
+        height: 98rem;
+        
+    }
+    .fotter_section .fotter_bottom .flot .part {
+        float: left;
+        width: 50%;
+    }
+    .fotter_section .fotter_bottom .flot .p-2 {
+        float: left;
+        width: 50%;
+    }
+    .fotter_section .fotter_bottom .flot .p3 {
+        float: left;
+        width: 100%;
+        margin-top: 1rem;
+    }
+    .fotter_section .fotter_bottom .flot .part .i-prt {
+        text-align: left;
+        padding-left: 8rem;
+    }
+    /* .teacher_section .flot about-box-content .inner_box .image:hover::after {
+        width: 100%;
+        height: 100%;
+        -webkit-transform: scale(0.8);
+        transform: scale(1);
+      } */
+      .teacher_section .flot .about-box-content {
+        width: 100%;
+        float: left;
+    }
+    .teacher_section .flot .about-box-content .inner_box .image:hover .h-d h4 {
+      
+        font-size: 3.3rem;
+    }
+    .teacher_section .flot .about-box-content .inner_box .image:hover::after {
+    
+        transform: scale(.8);
+      }
+      .teacher_section .flot .about-box-content .inner_box .image:hover .h-d i {
+     
+        font-size: 2.5rem;
+    }
+    .teacher_section .flot .about-box-content .inner_box .image .h-d p {
+        font-size: 2.5rem;
+    }
+    .fotter_section .footer_item .footer_content .inner ul li a i {
+        font-size: .5rem;
+        color: #2abae6;
+        position: relative;
+        top: -0.2rem;
+        margin-right: .7rem;
+    }
+}
+@media all and (max-width:410px) {
+    .container {
+        width: 55rem;
+        margin: auto;
+    }
+    html {
+        font-size: 6px;
+    }
+    .banner_section .b-content h2 {
+        font-size: 2.3rem;
+        line-height: 4rem;
+        /* margin-top: 5rem; */
+    }
+    .banner_section {
+       
+        padding: 0rem 0rem 13rem 0rem;
+      
+    }
+    .about_section .a-content .right {
+        
+        margin-bottom: 5rem;
+    }
+    .addmision-section .f_left img {
+        width: 80%;
+        margin-bottom: 6rem;
+    }
+    .addmision-section-bottom {
+        padding: 1rem 0;
+        padding-bottom: 5rem;
+    }
+    .fotter_section .sss .s_content .s_left {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+    .fotter_section .sss .s_content .s_right {
+        float: right;
+        width: 100%;
+        margin-top: 3.5rem;
+        text-align: center;
+    }
+    .fotter_section .sss .s_content .s_right .submit {
+        margin-left: -0.5rem;
+        /* margin-top: 3rem; */
+    }
+    .fotter_section .sss {
+        padding-bottom: 2rem;
+    }
+    .news_section {
+       
+     padding-top: 5rem;
+     padding-bottom: 0;
+      
+    }
+    .fotter_section .sss .s_content .s_right {
+        
+        margin-top: 0.5rem;
+      
+    }
+    .fotter_section {
+       
+        height: 110rem;
+        
+    }
+    .rr{
+        padding-left: 0 !important;
+    }
+    .inner {
+        margin-bottom: 3rem;
+        padding-left: 6rem;
+    }
+    .fotter_section .fotter_bottom .flot .part .i-prt {
+        text-align: left;
+        padding-left: 5rem;
+    }
+    .teacher_section .flot .about-box-content {
+        width: 100%;
+        float: left;
+    }
+    .teacher_section .flot .about-box-content .inner_box .image:hover .h-d h4 {
+      
+        font-size: 3rem;
+    }
+    .teacher_section .flot .about-box-content .inner_box .image:hover::after {
+    
+        transform: scale(.8);
+      }
+      .teacher_section .flot .about-box-content .inner_box .image:hover .h-d i {
+     
+        font-size: 2rem;
+    }
+    .teacher_section .flot .about-box-content .inner_box .image .h-d p {
+        font-size: 2rem;
+    }
+    .fotter_section .footer_item .footer_content .inner ul li a i {
+        font-size: .5rem;
+        color: #2abae6;
+        position: relative;
+        top: 0rem;
+        margin-right: .7rem;
+    }
+    .fotter_section .sss .s_content .s_right .submit {
+    
+        font-size: 1.6rem;
+    }
+    .fotter_section .sss .s_content .s_right .submit {
+        width: 10rem;
+        height: 5rem;
+        position: relative;
+        top: -2px;
+    }
+    .fotter_section .sss {
+       
+        position: relative;
+        top: -86px;
+    }
+    .fotter_section .fotter_bottom .flot .p-2 .i-prt p {
+       
+        font-size: 1.2rem;
+      
+    }
+    .navbar .navbar_menu .right .flaticon-bag {
+        font-size: 2.2rem;
+        padding: 0 1.5rem;
+    }
+    .navbar .navbar_menu .right .flaticon-bag {
+     
+            font-size: 2.2rem;
+            /* padding: 0 1.5rem; */
+            padding-top: -8.7rem;
+            padding-top: 0rem;
+            display: inline-block;
+            position: relative;
+            top: 0.3rem;
+        
+    }
+    .navbar .navbar_menu .right .fa-search {
+        font-size: 2.2rem;
+        padding-right: 1.5rem;
+        position: relative;
+            top: 0.3rem;
+    }
+    .hover-icon:hover .h-main {
+       
+        top: 228%;
+    }
+}
